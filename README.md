@@ -1,5 +1,6 @@
 # Genomic Comparative analysis of two multi-drug resistance (MDR) Acinetobacter baumannii clinical strains assigned to international clonal lineage II recovered pre- and post-COVID-19 pandemic
 German M. Traglia1, Fernando Pasteran2, Jenny Escalante3, Marisel R. Tuttobene4, Tomás Subils5, Maria Rosa Nuñez6, María Gabriela Rivollier7, Alejandra Corso2, Marcelo E. Tolmasky3 and Maria Soledad Ramirez3*
+
 1	Departamento de Desarrollo Biotecnológico, Instituto de Higiene, Facultad de Medicina, Universidad de la Republica, Montevideo, Uruguay.
 2	National Regional Reference Laboratory for Antimicrobial Resistance (NRL), Servicio Antimicrobianos, Instituto Nacional de Enfermedades Infecciosas, ANLIS Dr. Carlos G. Malbrán, Buenos Aires, Argentina.
 3       Center for Applied Biotechnology Studies, Department of Biological Science, College of Natural Sciences and Mathematics, California State University Fullerton, CA 92831, USA.
