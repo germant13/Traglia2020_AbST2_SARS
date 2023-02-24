@@ -10,4 +10,4 @@ German M. Traglia1, Fernando Pasteran2, Jenny Escalante3, Marisel R. Tuttobene4,
 7      Laboratorio de Microbiología, Hospital Artémides Zatti, Viedma, Rio Negro, Argentina
 *	Correspondence: msramirez@fullerton.edu; Tel.: +1  657-278-4562
 
-## Figure 1, Figure 2 and Figure 3 in high quality resolution.
+## Figure 1, Figure 2, Figure 3 and Figure S1 in high quality resolution.
